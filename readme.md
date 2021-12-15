@@ -1,3 +1,5 @@
+### THIS IS A MIRROR, you should probably play the original.
+
 # Bad Time Simulator (Sans Fight)
 This project is a clone of the sans fight from [Undertale](http://undertale.com/).
 It was made with [Construct 2](https://www.scirra.com/construct2).
